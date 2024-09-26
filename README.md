@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Hyewon's%20Github&fontSize=70&desc=Hi%20there%20👋&fontAlignY=38&descAlignY=55&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=Hyewon's%20Github&fontSize=70&desc=Hi%20there%20👋&fontAlignY=38&descAlignY=55)
+
 
 https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
 <div align="center">
