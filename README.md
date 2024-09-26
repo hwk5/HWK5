@@ -36,18 +36,18 @@
 
 <div align="center" display="flex" align-items="center">
   <h3 align="center">🌿 My stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dabisix&show_icons=true&theme=midnight-purple" width=50%>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyewon&show_icons=true&theme=midnight-purple" width=50%>
     <!-- ![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyewon&show_icons=true&theme=midnight-gradient) -->
   <a href="https://solved.ac/yukdb66" width=30%>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yukdb66">
   </a>
-<!-- [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukdb66)](https://solved.ac/yukdb66) -->
+<!-- [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=db66)](https://solved.ac/db66) -->
 </div>
 
 </br>
 
 ### 🌐 Blog
-<a href="https://dabisix.github.io">
+<a href="https://hwk5.github.io">
 <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
 
 
@@ -55,6 +55,6 @@
 </br>
 
 ### 📫 Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yukdabin@naver.com)](mailto:yukdabin@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:cabrlarbqja@naver.com)](mailto:cabrlarbqja@naver.com)
 
 </div>
