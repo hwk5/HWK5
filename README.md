@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**hwk5/HWK5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Dabisix's%20Github&fontSize=70&desc=Hi%20there%20👋&fontAlignY=38&descAlignY=55)
 
 <div align="center">
