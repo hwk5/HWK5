@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Hyewon's%20Github&fontSize=70&desc=Hi%20there%20👋&fontAlignY=38&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Hyewon's%20Github&fontSize=70&desc=Hi%20there%20👋&fontAlignY=38&descAlignY=55&color=gradient)
 
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
 <div align="center">
 
 <h3 align="center"> 🌱 I'm currently learning</p>
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/OracleDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -37,7 +38,7 @@
 <div align="center" display="flex" align-items="center">
   <h3 align="center">🌿 My stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Dabisix&show_icons=true&theme=midnight-purple" width=50%>
-    <!-- ![Dabisix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dabisix&show_icons=true&theme=midnight-purple) -->
+    <!-- ![Hyewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyewon&show_icons=true&theme=midnight-gradient) -->
   <a href="https://solved.ac/yukdb66" width=30%>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yukdb66">
   </a>
